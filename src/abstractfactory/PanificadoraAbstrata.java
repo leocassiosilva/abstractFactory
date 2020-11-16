@@ -9,6 +9,8 @@ package abstractfactory;
  *
  * @author Leocassio
  */
-public class BoloA2 {
-    
+//Vai ser implementado nas classes abastratas
+public interface PanificadoraAbstrata {
+    BoloChocolate criarBoloChocolate(); 
+    BoloMilho criarBoloMilho();
 }

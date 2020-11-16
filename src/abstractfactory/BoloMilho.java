@@ -9,6 +9,6 @@ package abstractfactory;
  *
  * @author Leocassio
  */
-public interface BoloAbstratoB {
-    
+public interface BoloMilho {
+    void informacoesBoloMilho();
 }
